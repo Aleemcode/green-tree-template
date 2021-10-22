@@ -431,7 +431,7 @@ header .navigation-bar nav ul ul ul {
     padding: 64px 0;
 }
 .main-banner .banner-text > h2 {
-    color: #2b2b2b;
+    color: #172e45;
     font-size: 65.03px;
     line-height: 81.29px;
     font-weight: 600;
@@ -440,7 +440,7 @@ header .navigation-bar nav ul ul ul {
 }
 .main-banner .banner-text > h2 span {
     display: inline-block;
-    color: #f37335;
+    color: #cf211b;
     position: relative;
 }
 .main-banner .banner-text > h2 span:hover:before {
@@ -521,14 +521,14 @@ header .navigation-bar nav ul ul ul {
     margin-bottom: 43px;
 }
 .section-title > h2 {
-    color: #2b2b2b;
+    color: #172e45;
     font-size: 48.77px;
     margin-bottom: 15px;
     font-weight: 700;
     margin-bottom: 7px;
 }
 .section-title > h2 > span {
-    color: #f37335;
+    color: #cf211b;
 }
 .section-title p {
     color: #575757;
